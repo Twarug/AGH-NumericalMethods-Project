@@ -5,3 +5,7 @@ Uni project focused on use of numeric function to solve data analitics problem. 
 ### Creators
 - [MSior](https://github.com/MSiorr)
 - [Twarug](https://github.com/Twarug)
+
+
+### Datasource
+[Meteostat](https://dev.meteostat.net/)
