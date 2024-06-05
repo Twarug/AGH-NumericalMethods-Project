@@ -1,0 +1,374 @@
+[
+    {
+        "id": "12205",
+        "name": {
+            "en": "Szczecin"
+        },
+        "country": "PL",
+        "region": "ZA",
+        "identifiers": {
+            "national": null,
+            "wmo": "12205",
+            "icao": "EPSC"
+        },
+        "location": {
+            "latitude": 53.4,
+            "longitude": 14.6167,
+            "elevation": 1
+        },
+        "timezone": "Europe/Warsaw",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2024-06-13"
+            },
+            "hourly": {
+                "start": "2015-08-07",
+                "end": "2024-06-04"
+            },
+            "daily": {
+                "start": "1931-01-02",
+                "end": "2024-05-26"
+            },
+            "monthly": {
+                "start": 1931,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "12150",
+        "name": {
+            "en": "Gdansk-Rebiechowo"
+        },
+        "country": "PL",
+        "region": "PM",
+        "identifiers": {
+            "national": null,
+            "wmo": "12150",
+            "icao": "EPGD"
+        },
+        "location": {
+            "latitude": 54.3833,
+            "longitude": 18.4667,
+            "elevation": 135
+        },
+        "timezone": "Europe/Warsaw",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2024-06-13"
+            },
+            "hourly": {
+                "start": "1931-01-01",
+                "end": "2024-06-04"
+            },
+            "daily": {
+                "start": "1979-05-02",
+                "end": "2022-04-25"
+            },
+            "monthly": {
+                "start": 1954,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2000
+            }
+        }
+    },
+    {
+        "id": "12295",
+        "name": {
+            "en": "Bialystok"
+        },
+        "country": "PL",
+        "region": "PL",
+        "identifiers": {
+            "national": null,
+            "wmo": "12295",
+            "icao": "EPBK"
+        },
+        "location": {
+            "latitude": 53.1,
+            "longitude": 23.1667,
+            "elevation": 148
+        },
+        "timezone": "Europe/Warsaw",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2024-06-13"
+            },
+            "hourly": {
+                "start": "1931-01-01",
+                "end": "2024-06-04"
+            },
+            "daily": {
+                "start": "1952-01-04",
+                "end": "2024-05-28"
+            },
+            "monthly": {
+                "start": 1953,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "12566",
+        "name": {
+            "en": "Krakow"
+        },
+        "country": "PL",
+        "region": "ML",
+        "identifiers": {
+            "national": null,
+            "wmo": "12566",
+            "icao": "EPKK"
+        },
+        "location": {
+            "latitude": 50.0833,
+            "longitude": 19.8,
+            "elevation": 237
+        },
+        "timezone": "Europe/Warsaw",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2024-06-13"
+            },
+            "hourly": {
+                "start": "1931-01-03",
+                "end": "2024-06-04"
+            },
+            "daily": {
+                "start": "1973-01-01",
+                "end": "2024-05-28"
+            },
+            "monthly": {
+                "start": 1973,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "12375",
+        "name": {
+            "en": "Warszawa-Okecie"
+        },
+        "country": "PL",
+        "region": "MZ",
+        "identifiers": {
+            "national": null,
+            "wmo": "12375",
+            "icao": "EPWA"
+        },
+        "location": {
+            "latitude": 52.1667,
+            "longitude": 20.9667,
+            "elevation": 106
+        },
+        "timezone": "Europe/Warsaw",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2024-06-13"
+            },
+            "hourly": {
+                "start": "1928-01-02",
+                "end": "2024-06-04"
+            },
+            "daily": {
+                "start": "1952-01-02",
+                "end": "2024-05-28"
+            },
+            "monthly": {
+                "start": 1953,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "02636",
+        "name": {
+            "de": "Malmo Sturup Flughafen",
+            "sv": "Malmo Sturup Flygplats",
+            "en": "Malmo Sturup Airport"
+        },
+        "country": "SE",
+        "region": "SN",
+        "identifiers": {
+            "national": null,
+            "wmo": "02636",
+            "icao": "ESMS"
+        },
+        "location": {
+            "latitude": 55.55,
+            "longitude": 13.3667,
+            "elevation": 106
+        },
+        "timezone": "Europe/Stockholm",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2024-06-14"
+            },
+            "hourly": {
+                "start": "1977-07-01",
+                "end": "2024-06-04"
+            },
+            "daily": {
+                "start": "1977-07-03",
+                "end": "2022-04-25"
+            },
+            "monthly": {
+                "start": 1980,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 1990
+            }
+        }
+    },
+    {
+        "id": "10866",
+        "name": {
+            "de": "München Flughafen",
+            "en": "Munich Airport"
+        },
+        "country": "DE",
+        "region": "BY",
+        "identifiers": {
+            "national": "01262",
+            "wmo": "10866",
+            "icao": "EDDM"
+        },
+        "location": {
+            "latitude": 48.35,
+            "longitude": 11.7833,
+            "elevation": 453
+        },
+        "timezone": "Europe/Berlin",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2024-06-13"
+            },
+            "hourly": {
+                "start": "1929-08-01",
+                "end": "2024-06-04"
+            },
+            "daily": {
+                "start": "1946-06-01",
+                "end": "2024-06-02"
+            },
+            "monthly": {
+                "start": 1946,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "33658",
+        "name": {
+            "en": "Chernivtsi"
+        },
+        "country": "UA",
+        "region": "CV",
+        "identifiers": {
+            "national": null,
+            "wmo": "33658",
+            "icao": "UKLN"
+        },
+        "location": {
+            "latitude": 48.3667,
+            "longitude": 25.9,
+            "elevation": 242
+        },
+        "timezone": "Europe/Uzhgorod",
+        "inventory": {
+            "model": {
+                "start": "2019-11-04",
+                "end": "2024-06-13"
+            },
+            "hourly": {
+                "start": "2017-01-20",
+                "end": "2022-02-24"
+            },
+            "daily": {
+                "start": "1941-03-01",
+                "end": "2024-05-30"
+            },
+            "monthly": {
+                "start": 1941,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "26422",
+        "name": {
+            "en": "Riga"
+        },
+        "country": "LV",
+        "region": "RGA",
+        "identifiers": {
+            "national": null,
+            "wmo": "26422",
+            "icao": "UMRR"
+        },
+        "location": {
+            "latitude": 56.9667,
+            "longitude": 24.05,
+            "elevation": 7
+        },
+        "timezone": "Europe/Riga",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2024-06-13"
+            },
+            "hourly": {
+                "start": "1928-01-02",
+                "end": "2024-06-04"
+            },
+            "daily": {
+                "start": "1943-01-01",
+                "end": "2008-12-31"
+            },
+            "monthly": {
+                "start": 1943,
+                "end": 2012
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    }
+]
